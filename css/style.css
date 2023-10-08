@@ -1,0 +1,40 @@
+/* Estilos gerais */
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+  
+.container {
+  margin-top: 20px;
+}
+  
+/* Navbar */
+.navbar {
+  background-color: #8B0000;
+}
+  
+.navbar .navbar-brand img {
+  margin-right: 10px;
+}
+  
+.navbar .navbar-nav .nav-link {
+  color: silver;
+}
+
+/* Estilo para o texto "Welcome Figthers" na navbar */
+.navbar .welcome-text {
+  color: silver;
+  font-family: Arial, sans-serif; /* Use a mesma fonte que os botões */
+}
+  
+/* Rodapé */
+.footer {
+  background-color: #343a40;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  text-align: right;
+}
+  

@@ -1,0 +1,38 @@
+/* Estilos de Login*/
+.card {
+    border: none;
+}
+  
+.card-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    padding: 20px 0;
+}
+  
+.card-header h2 {
+    margin: 0;
+}
+  
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group.form-check {
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.login-header {
+    text-align: center;
+}
+
+.login-header img {
+    max-width: 100%;
+    height: auto;
+    max-height: 70px; /* Define a altura máxima da imagem */
+}
+
+.login-header h2 {
+    font-size: 24px; /* Define o tamanho máximo da fonte */
+}
